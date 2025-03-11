@@ -65,7 +65,7 @@ This project focuses on **Natural Language Processing (NLP)** using Keras and Te
 ---
 
 ## Contributions
-- **[Your Name]** – Model development, data preprocessing, evaluation, and documentation.
+- [Data Source](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
 - Special thanks to the developers of TensorFlow, Keras, and NLTK for their contributions.
 
 ---
