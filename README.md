@@ -17,7 +17,7 @@ This project focuses on **Natural Language Processing (NLP)** using Keras and Te
 3. Removed stopwords using **NLTK**.
 4. Encoded categorical labels using **scikit-learn**.
 
----
+--- 
 
 ## NLP
 1. Applied tokenization and padding to standardize input sequences.
