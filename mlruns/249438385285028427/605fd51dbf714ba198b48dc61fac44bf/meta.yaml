@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/605fd51dbf714ba198b48dc61fac44bf/artifacts
+deleted_time: 1741663975270
+end_time: 1741660360574
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 605fd51dbf714ba198b48dc61fac44bf
+run_name: sedate-ox-907
+run_uuid: 605fd51dbf714ba198b48dc61fac44bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741660360458
+status: 4
+tags: []
+user_id: suhaimi

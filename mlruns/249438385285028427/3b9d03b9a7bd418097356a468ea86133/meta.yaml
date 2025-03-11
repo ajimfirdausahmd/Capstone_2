@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/3b9d03b9a7bd418097356a468ea86133/artifacts
+deleted_time: 1741663975284
+end_time: 1741662008397
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 3b9d03b9a7bd418097356a468ea86133
+run_name: incongruous-asp-937
+run_uuid: 3b9d03b9a7bd418097356a468ea86133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741662005931
+status: 4
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/8fa7c63365244cdcad5c16425010e6f0/artifacts
+deleted_time: 1741663975293
+end_time: 1741663270547
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 8fa7c63365244cdcad5c16425010e6f0
+run_name: learned-goose-340
+run_uuid: 8fa7c63365244cdcad5c16425010e6f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741663269321
+status: 4
+tags: []
+user_id: suhaimi

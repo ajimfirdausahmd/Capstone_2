@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/525cc88ec40740f99d4eee54136c6bef/artifacts
+deleted_time: 1741663975301
+end_time: 1741662547471
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 525cc88ec40740f99d4eee54136c6bef
+run_name: industrious-conch-36
+run_uuid: 525cc88ec40740f99d4eee54136c6bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741662547336
+status: 4
+tags: []
+user_id: suhaimi

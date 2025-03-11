@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/0b3facd2662b474fae0bebd5a00b3e38/artifacts
+deleted_time: 1741663975281
+end_time: 1741661860787
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 0b3facd2662b474fae0bebd5a00b3e38
+run_name: casual-sloth-996
+run_uuid: 0b3facd2662b474fae0bebd5a00b3e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741661860660
+status: 4
+tags: []
+user_id: suhaimi

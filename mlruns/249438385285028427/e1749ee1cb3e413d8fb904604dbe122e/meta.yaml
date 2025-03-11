@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/e1749ee1cb3e413d8fb904604dbe122e/artifacts
+end_time: 1741668541235
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: active
+run_id: e1749ee1cb3e413d8fb904604dbe122e
+run_name: popular-colt-679
+run_uuid: e1749ee1cb3e413d8fb904604dbe122e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741667468689
+status: 3
+tags: []
+user_id: suhaimi

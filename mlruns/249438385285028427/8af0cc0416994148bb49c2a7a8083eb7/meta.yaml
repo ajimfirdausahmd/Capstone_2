@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/8af0cc0416994148bb49c2a7a8083eb7/artifacts
+end_time: 1741670422057
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: active
+run_id: 8af0cc0416994148bb49c2a7a8083eb7
+run_name: caring-kit-509
+run_uuid: 8af0cc0416994148bb49c2a7a8083eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741670408708
+status: 4
+tags: []
+user_id: suhaimi

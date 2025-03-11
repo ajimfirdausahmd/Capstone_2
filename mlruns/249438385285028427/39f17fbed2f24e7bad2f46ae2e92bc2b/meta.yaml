@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/39f17fbed2f24e7bad2f46ae2e92bc2b/artifacts
+deleted_time: 1741663975301
+end_time: 1741663020593
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 39f17fbed2f24e7bad2f46ae2e92bc2b
+run_name: nervous-snail-795
+run_uuid: 39f17fbed2f24e7bad2f46ae2e92bc2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741663019413
+status: 4
+tags: []
+user_id: suhaimi

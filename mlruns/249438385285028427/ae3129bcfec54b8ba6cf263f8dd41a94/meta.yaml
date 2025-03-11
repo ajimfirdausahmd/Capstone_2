@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/ae3129bcfec54b8ba6cf263f8dd41a94/artifacts
+deleted_time: 1741663975273
+end_time: 1741661623078
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: ae3129bcfec54b8ba6cf263f8dd41a94
+run_name: skittish-moth-361
+run_uuid: ae3129bcfec54b8ba6cf263f8dd41a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741661622939
+status: 4
+tags: []
+user_id: suhaimi

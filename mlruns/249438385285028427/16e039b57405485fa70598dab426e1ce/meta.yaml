@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/16e039b57405485fa70598dab426e1ce/artifacts
+deleted_time: 1741663975283
+end_time: 1741661972106
+entry_point_name: ''
+experiment_id: '249438385285028427'
+lifecycle_stage: deleted
+run_id: 16e039b57405485fa70598dab426e1ce
+run_name: enchanting-skunk-586
+run_uuid: 16e039b57405485fa70598dab426e1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741661971050
+status: 4
+tags: []
+user_id: suhaimi
