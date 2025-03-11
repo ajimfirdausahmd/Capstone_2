@@ -34,6 +34,8 @@ This project focuses on **Natural Language Processing (NLP)** using Keras and Te
    - Fully connected layers for classification
 3. Optimized with appropriate loss functions, regularization, and callbacks.
 
+![Architecture Model](Img/ArchitectureModel.jpg)
+
 ---
 
 ## Results
@@ -41,13 +43,17 @@ This project focuses on **Natural Language Processing (NLP)** using Keras and Te
 - Tracked and tuned model performance using **MLflow**.
 - Visualized training and validation performance.
 
+![Classification Report](Img/ClassificationReport.jpg)
+
 ---
 
 ## TensorBoard
 - Used TensorBoard to monitor:
-   - Loss and accuracy curves  
-   - Model architecture  
-   - Confusion matrix  
+   - Loss and accuracy curves 
+
+   ![Accurancy](Img/accuracy.jpg)
+
+   ![Loss](Img/loss.jpg)
 
 ---
 
