@@ -1,5 +1,5 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_2/mlruns/249438385285028427/0f9f4ce322b0486ca913f4eade8090f5/artifacts
-end_time: null
+end_time: 1741679389484
 entry_point_name: ''
 experiment_id: '249438385285028427'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1741677340952
-status: 1
+status: 3
 tags: []
 user_id: suhaimi
